@@ -6,6 +6,6 @@
 	quest.5AC1BE754210429E.quest_desc: ["If you want to create a team for you and your friends, use the command &a/ftbteams party create (name of team)&r to create the team!"]
 	task.201F519941A2C7F4.title: "AllRightsReserved"
 	task.2C816285392535F0.title: "AllRightsReserved"
-	task.4F13A02FB0055A62.title: "Creating a Team"
-	task.52BB142F044075B4.title: "Quests"
+	task.4F13A02FB0055A62.title: "팀 만들기"
+	task.52BB142F044075B4.title: "퀘스트"
 }
